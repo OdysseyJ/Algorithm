@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm solved by java - acmicpc
+Algorithm solved by SeongwoonJeong
