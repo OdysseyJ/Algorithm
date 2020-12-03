@@ -36,7 +36,7 @@ function solution(s) {
     return Math.min.apply(Math, lengthArray);
 }
 
-// 다른사람거 미쳤다.
+// 다른사람거 미쳤다.r
 const solution = s => {
     const range = [...Array(s.length)].map((_, i) => i + 1);
     return Math.min(...range.map(i => compress(s, i).length));
